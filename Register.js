@@ -96,7 +96,7 @@ const style = StyleSheet.create({
         padding: 4
     },
     login:{
-        width: "20%",
+        width: "30%",
         opacity: 1,
         backgroundColor: "#3F51B5",
         alignItems: 'center',
